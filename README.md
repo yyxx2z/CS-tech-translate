@@ -8,11 +8,11 @@ CS 技术译文仓库
 
 Issues 标题格式为：
 
-【领域】[原文名](完成时间或待认领)
+【领域】[原文名] (完成时间或待认领)
 
-如 【前端】[The Complete Guide to ES10 Features](2019.4.1)
+如 【前端】[The Complete Guide to ES10 Features] (2019.4.1)
 
-或 【前端】[The Complete Guide to ES10 Features](待认领)
+或 【前端】[The Complete Guide to ES10 Features] (待认领)
 
 并在评论附上原文地址。
 
